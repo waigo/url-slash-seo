@@ -1,0 +1,41 @@
+{
+  "name": "waigo-url-slash-seo",
+  "version": "1.0.0",
+  "description": "URL slash SEO middleware for Waigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node --harmony `which grunt`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waigo/s.git"
+  },
+  "keywords": [
+    "waigo",
+    "waigoplugin",
+    "koa",
+    "middleware",
+    "http"
+  ],
+  "author": "Ramesh Nair <ram@hiddentao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waigo/url-slash-seo/issues"
+  },
+  "homepage": "https://github.com/url-slash-seo/mongo",
+  "devDependencies": {
+    "load-grunt-tasks": "~0.4.0",
+    "grunt": "~0.4.4",
+    "grunt-mocha-test": "~0.10.0",
+    "supertest": "~0.10.0",
+    "chai": "~1.9.1",
+    "matchdep": "~0.3.0",
+    "shelljs": "~0.2.6",
+    "co": "~3.0.5",
+    "waigo-test-utils": "git://github.com/waigo/test-utils.git",
+    "waigo": "~1.2.0"
+  },
+  "dependencies": {
+    "debug": "~0.8.1"
+  }
+}
