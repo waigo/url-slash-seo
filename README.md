@@ -11,7 +11,7 @@ incorrect version is accessed.
 If using this middleware then ensure you write your routes according to 
 your chosen rule, i.e. with or without ending slashes.
 
-Note that this middleware only works for `GET` and `HEAD` requests.
+Note that this middleware only intercepts `GET` and `HEAD` requests.
 
 
 ## Installation
