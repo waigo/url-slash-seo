@@ -36,6 +36,7 @@
     "waigo": "~1.2.0"
   },
   "dependencies": {
-    "debug": "~0.8.1"
+    "debug": "~0.8.1",
+    "lodash": "~2.4.1"
   }
 }
