@@ -1,6 +1,6 @@
 {
   "name": "waigo-url-slash-seo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "URL slash SEO middleware for Waigo",
   "main": "index.js",
   "scripts": {
