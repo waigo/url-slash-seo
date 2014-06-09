@@ -1,6 +1,6 @@
 {
   "name": "waigo-url-slash-seo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "URL slash SEO middleware for Waigo",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/waigo/s.git"
+    "url": "https://github.com/waigo/url-slash-seo.git"
   },
   "keywords": [
     "waigo",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/waigo/url-slash-seo/issues"
   },
-  "homepage": "https://github.com/url-slash-seo/mongo",
+  "homepage": "https://github.com/waigo/url-slash-seo",
   "devDependencies": {
     "load-grunt-tasks": "~0.4.0",
     "grunt": "~0.4.4",
