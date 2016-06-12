@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/waigo/url-slash-seo.png)](http://travis-ci.org/waigo/url-slash-seo)
+# waigo-plugin-url-slash-sel
 
 This [waigo](http://waigojs.com) plugin provides:
 
@@ -17,7 +17,7 @@ Note that this middleware only intercepts `GET` and `HEAD` requests.
 ## Installation
 
 ```bash
-$ npm install waigo-url-slash-seo
+$ npm install waigo-plugin-url-slash-seo
 ```
 
 ## Example

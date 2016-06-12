@@ -1,7 +1,7 @@
 {
-  "name": "waigo-url-slash-seo",
-  "version": "1.0.2",
-  "description": "URL slash SEO middleware for Waigo",
+  "name": "waigo-plugin-url-slash-seo",
+  "version": "2.0.0",
+  "description": "URL slash SEO middleware for Waigo (plugin)",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test node --harmony `which grunt`"
